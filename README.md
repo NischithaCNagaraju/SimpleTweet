@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/android_university/5b_crrIJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**GIF WALKTHROUGH**  <img src='https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
