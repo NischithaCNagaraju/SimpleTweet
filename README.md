@@ -16,19 +16,22 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x ] User can view more tweets as they scroll with infinite pagination  (But was unable to display on emulator)
-
+- [x ] User can view more tweets as they scroll with infinite pagination - GIF included
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-**GIF WALKTHROUGH**  <img src='https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**GIF WALKTHROUGH - Required**  <img src='https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
 
-**GIF LINK**  [Twitter1](https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif)
+**GIF LINK 1**  [Twitter1](https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif)
 
+
+**GIF WALKTHROUGH - Optional- Infinite scroll**  <img src='https://user-images.githubusercontent.com/61173798/107918489-9ab22400-6f1e-11eb-82c6-49de047f90ab.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+**GIF LINK 2** [Twitter2](https://user-images.githubusercontent.com/61173798/107918489-9ab22400-6f1e-11eb-82c6-49de047f90ab.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
