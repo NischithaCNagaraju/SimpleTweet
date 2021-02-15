@@ -19,7 +19,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university/5b_crrIJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
 
 ![Twitter1](https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif)
 
