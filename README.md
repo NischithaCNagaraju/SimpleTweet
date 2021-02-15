@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-![Twitter1](https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif)
+**GIF LINK**  [Twitter1](https://user-images.githubusercontent.com/61173798/107914425-43f51c00-6f17-11eb-9611-7225699a9367.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
