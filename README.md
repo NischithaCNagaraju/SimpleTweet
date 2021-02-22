@@ -40,6 +40,18 @@ The following **optional** features are implemented:
 **GIF LINK Twitter part 2 - required** [Twitter-part2](https://user-images.githubusercontent.com/61173798/108665092-f59ccb80-7488-11eb-9297-5f6e763e8c16.gif)
 
 
+
+**GIF WALKTHROUGH  Twitter part 2- optional (Existence of database in airplane mode) **  <img src='https://user-images.githubusercontent.com/61173798/108676545-3c94bc00-749d-11eb-8d38-002b579ba0ef.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+
+**GIF LINK Twitter part 2 - required** [Twitter-part2-2](https://user-images.githubusercontent.com/61173798/108676545-3c94bc00-749d-11eb-8d38-002b579ba0ef.gif)
+
+
+
+
+
 The following **optional** features are implemented:
 
 - [x] User can view more tweets as they scroll with infinite pagination - GIF included
