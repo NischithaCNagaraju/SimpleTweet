@@ -28,6 +28,7 @@ The following **required** functionality is completed:
   
 
 The following **optional** features are implemented:
+
 [x] User can **open the twitter app offline and see last loaded tweets**. Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from Twitter API, it is also saved for use in offline mode.
 
 
@@ -36,7 +37,7 @@ The following **optional** features are implemented:
 
 
 
-**GIF LINK Twitter part 2 - required** ![Twitter-part2](https://user-images.githubusercontent.com/61173798/108665092-f59ccb80-7488-11eb-9297-5f6e763e8c16.gif)
+**GIF LINK Twitter part 2 - required** [Twitter-part2](https://user-images.githubusercontent.com/61173798/108665092-f59ccb80-7488-11eb-9297-5f6e763e8c16.gif)
 
 
 The following **optional** features are implemented:
