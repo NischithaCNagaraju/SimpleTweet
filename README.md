@@ -41,12 +41,12 @@ The following **optional** features are implemented:
 
 
 
-**GIF WALKTHROUGH  Twitter part 2- optional (Existence of database in airplane mode) **  <img src='https://user-images.githubusercontent.com/61173798/108676545-3c94bc00-749d-11eb-8d38-002b579ba0ef.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**GIF WALKTHROUGH  Twitter part 2- optional (Existence of database in airplane mode)**  <img src='https://user-images.githubusercontent.com/61173798/108676545-3c94bc00-749d-11eb-8d38-002b579ba0ef.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
 
-**GIF LINK Twitter part 2 - required** [Twitter-part2-2](https://user-images.githubusercontent.com/61173798/108676545-3c94bc00-749d-11eb-8d38-002b579ba0ef.gif)
+**GIF LINK Twitter part 2 - optional** [Twitter-part2-2](https://user-images.githubusercontent.com/61173798/108676545-3c94bc00-749d-11eb-8d38-002b579ba0ef.gif)
 
 
 
