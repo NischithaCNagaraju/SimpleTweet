@@ -8,11 +8,11 @@ Time spent: **12** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x ] User can **sign in to Twitter** using OAuth login
-- [x ]	User can **view tweets from their home timeline**
-  - [x ] User is displayed the username, name, and body for each tweet
+- [x] User can **sign in to Twitter** using OAuth login
+- [x]	User can **view tweets from their home timeline**
+  - [x] User is displayed the username, name, and body for each tweet
   - [ ] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
-- [x ] User can refresh tweets timeline by pulling down to refresh
+- [x] User can refresh tweets timeline by pulling down to refresh
 
 
 #  *Twitter Client - Part 2*
@@ -30,9 +30,18 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 [x] User can **open the twitter app offline and see last loaded tweets**. Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from Twitter API, it is also saved for use in offline mode.
 
+
+**GIF WALKTHROUGH  Twitter part 2- Required**  <img src='https://user-images.githubusercontent.com/61173798/108665092-f59ccb80-7488-11eb-9297-5f6e763e8c16.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+
+**GIF LINK Twitter part 2 - required** ![Twitter-part2](https://user-images.githubusercontent.com/61173798/108665092-f59ccb80-7488-11eb-9297-5f6e763e8c16.gif)
+
+
 The following **optional** features are implemented:
 
-- [x ] User can view more tweets as they scroll with infinite pagination - GIF included
+- [x] User can view more tweets as they scroll with infinite pagination - GIF included
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
